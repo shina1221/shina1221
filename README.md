@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+안녕하세요 데이터 사이언티스트를 꿈꾸는 신나정입니다.🌱 
+
+현재는 SSAC 영상처리를 위한 인공지능 개발자 교육과정을 수강하고 있습니다!
+
 <!--
 **shina1221/shina1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-안녕하세요 데이터 사이언티스트를 꿈꾸는 신나정입니다.🌱 
+
 
 
 Here are some ideas to get you started:
