@@ -22,7 +22,7 @@ Language - Python, R
 
 ✨ 기술스택 ✨
 
-- Python, R, MySQL, Machine Learning, Selenium, BeautifulSoup, Numpy, folium, openCV, DeepLaerning, Django, ELK(ElasticSearch, Logstash, Kibana), Linux   
+- Python, R, MySQL, Machine Learning, Pandas, Numpy, Selenium, BeautifulSoup, folium, openCV, DeepLaerning, Django, tkinter, ELK(ElasticSearch, Logstash, Kibana), Linux   
 
 <!--
 **shina1221/shina1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
