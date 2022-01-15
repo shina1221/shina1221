@@ -2,6 +2,8 @@
 
 <!--
 **shina1221/shina1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요 데이터 사이언티스트를 꿈꾸는 신나정입니다.🌱 
+
 
 Here are some ideas to get you started:
 
