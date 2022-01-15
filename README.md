@@ -5,7 +5,7 @@
 현재는 SSAC 영상처리를 위한 인공지능 개발자 교육과정을 수강하고 있습니다!
 
 Project list  
-1. 차량 운전자를 위한 횡단보도 무단횡단자 추적 알고리즘
+1. 차량 운전자를 위한 횡단보도 무단횡단자 추적 알고리즘[이동](https://github.com/shina1221/SSAC_2021/tree/main/mini_project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81.%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%8B%9C%EA%B0%81%ED%99%94)
 2. ELK(ElasticSearch, Logstash, Kibana)를 이용한 K-Culture 형태소 분석과 시각화(K-pop과 K-movie를 중심으로)
 3. 은행에서 대출 대상자 데이터를 기반으로 2년내에 대출금을 연체할 가능성이 있는지 여부를 예측하는 알고리즘 개발
 4. Covid19에 따른 사업장 변화 추이 분석
