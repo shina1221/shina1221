@@ -4,7 +4,7 @@
 
 -SSAC 영상처리를 위한 인공지능 개발자 교육과정을 수료
 
-study [[이동]] (https://github.com/shina1221/SSAC_2021/tree/main/class_study)
+study [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/class_study)
 
 Project list  
 1. AdaBoost 알고리즘이 적용된 Tracker API를 활용해 차량 운전자를 대상으로 횡단보도 무단횡단자 추적 및 알림 [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/mini_project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B83.%EC%B0%A8%EB%9F%89%20%EC%9A%B4%EC%A0%84%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%9A%A1%EB%8B%A8%EB%B3%B4%EB%8F%84%20%EB%AC%B4%EB%8B%A8%ED%9A%A1%EB%8B%A8%EC%9E%90%20%EC%B6%94%EC%A0%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
