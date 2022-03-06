@@ -11,8 +11,10 @@ Project list
 2. ELK(ElasticSearch, Logstash, Kibana)를 이용한 K-Culture 형태소 분석과 시각화(K-pop과 K-movie를 중심으로) [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/mini_project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B84.K_culture%20%ED%8A%B8%EC%9C%84%ED%84%B0%20%EA%B2%80%EC%83%89%20%EC%8B%9C%EA%B0%81%ED%99%94)
 3. 은행에서 대출 대상자 데이터를 기반으로 2년내에 대출금을 연체할 가능성이 있는지 여부를 예측하는 알고리즘 개발 [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/mini_project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B85)
 4. Covid19에 따른 사업장 변화 추이 분석 [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/mini_project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82.%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%9D%B4%EC%A0%84%EA%B3%BC%20%EC%9D%B4%ED%9B%84%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%82%AC%EC%97%85%EC%9E%A5%20%EC%B6%94%EC%9D%B4%EB%B6%84%EC%84%9D/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_2%ED%8C%80_%EC%8B%A0%EB%82%98%EC%A0%95_%EA%B9%80%ED%9D%AC%EC%88%98_%EA%B3%A0%ED%98%95%EC%84%9D)
-5. 국내 코로나 확진자 데이터를 활용한 분석 [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/mini_project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81.%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%8B%9C%EA%B0%81%ED%99%94)
-6. 녹조판별 알고리즘을 위한 데이터 크롤링 
+5. CCTV(웹캠)를 활용한 이상행동 신고 시스템_with C3D [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/mini_project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B86.CCTV%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EC%83%81%ED%96%89%EB%8F%99%20%EC%8B%A0%EA%B3%A0%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
+
+6. 국내 코로나 확진자 데이터를 활용한 분석 [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/mini_project/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81.%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%8B%9C%EA%B0%81%ED%99%94)
+7. 녹조판별 알고리즘을 위한 데이터 크롤링 
 
 
 Contact address - shina1221@naver.com
