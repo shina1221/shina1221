@@ -22,11 +22,11 @@ Language - Python, R
 
 이런쪽으로 관심을 가지고 있습니다!
 
-데이터 분석, 머신러닝, 딥러닝, 하둡 ...
+데이터 분석, 머신러닝, 딥러닝, 하둡, AWS ...
 
 ✨ 기술스택 ✨
 
-- Python, R, MySQL, Machine Learning, Pandas, Numpy, matplotlib, Selenium, BeautifulSoup, folium, openCV, DeepLearning, tensorflow, keras, Django, tkinter, ELK(ElasticSearch, Logstash, Kibana), Linux   
+- Python, R, MySQL, Machine Learning, Pandas, Numpy, matplotlib, Selenium, BeautifulSoup, folium, openCV, DeepLearning, tensorflow, keras, Django, tkinter, ELK(ElasticSearch, Logstash, Kibana), Linux, AWS   
 
 <!--
 **shina1221/shina1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
