@@ -2,7 +2,7 @@
 
 안녕하세요 데이터 사이언티스트를 꿈꾸는 신나정입니다.🌱 
 
--SSAC 영상처리를 위한 인공지능 개발자 교육과정 study [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/class_study)
+-SSAC 영상처리를 위한 인공지능 개발자 교육과정 study [[이동]](https://github.com/shina1221/SSAC_2021/tree/main/class_study)  
 -study [[~ing]](https://github.com/shina1221/SSAC_2021/tree/main/study)
 
 Project list  
